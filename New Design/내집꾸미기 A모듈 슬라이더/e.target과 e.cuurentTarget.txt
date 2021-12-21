@@ -1,2 +1,0 @@
-e.target = 눌렀던 것을 가져온다
-e.currentTarget = 실행되는 객체를 가져온다
